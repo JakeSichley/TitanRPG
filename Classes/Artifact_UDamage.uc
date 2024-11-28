@@ -165,7 +165,7 @@ defaultproperties
 	UDamageScale=1.000000
 	MinActivationTime=1.000000
 	CostPerSec=8
-	bExclusive=True
+	bExclusive=False
 	HudColor=(B=128,G=0)
 	ArtifactID="UDamage"
 	Description="Makes you deal twice as much damage as usual."

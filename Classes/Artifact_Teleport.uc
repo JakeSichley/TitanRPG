@@ -56,9 +56,9 @@ state Activated
 
 defaultproperties
 {
-	bAllowInVehicle=False
+	bAllowInVehicle=True
 	CostPerSec=25
-	MinActivationTime=1.000000
+	MinActivationTime=0.100000
 	PickupClass=Class'ArtifactPickup_Teleport'
 	IconMaterial=Texture'TitanRPG.ArtifactIcons.Teleport'
 	ItemName="Teleporter"

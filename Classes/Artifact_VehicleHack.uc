@@ -184,7 +184,7 @@ defaultproperties
 	ArtifactID="VehicleHack"
 	Description="Unlocks an enemy vehicle."
 	HudColor=(B=0,G=192,R=0)
-	bAllowInVehicle=False
+	bAllowInVehicle=True
 	bCanBeTossed=False
 	bChargeUp=True
 	HackSound=Sound'GeneralAmbience.beep6'

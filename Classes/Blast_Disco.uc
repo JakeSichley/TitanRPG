@@ -33,7 +33,7 @@ function DoEffect()
 
 defaultproperties
 {
-	bAffectInstigator=True
+	bAffectInstigator=False
 	bBotsBeAfraid=False
 	ChargeTime=2.000000
 	Radius=2000.000000

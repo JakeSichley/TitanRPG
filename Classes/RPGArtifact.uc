@@ -675,7 +675,7 @@ function RoundAdrenaline()
 defaultproperties
 {
 	Description=""
-	bCanBeTossed=True
+	bCanBeTossed=False
 	bCanHaveMultipleCopies=False
 	bActivatable=True
 	bDisplayableInv=True

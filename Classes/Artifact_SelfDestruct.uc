@@ -105,5 +105,5 @@ defaultproperties
 	DamageRadius=1024
 	MomentumTransfer=50000
 	
-	MaxUses=1
+	MaxUses=-1
 }

@@ -42,8 +42,8 @@ defaultproperties
 	AIMinTargets=2
 	bFriendly=False
 	
-	bAllowInVehicle=False
+	bAllowInVehicle=True
 	bCanBeTossed=False
 	
-	MaxUses=1
+	MaxUses=-1
 }

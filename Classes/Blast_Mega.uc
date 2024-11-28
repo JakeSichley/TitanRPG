@@ -5,7 +5,7 @@ defaultproperties
 	bIgnoreUltimaShield=True
 	bIgnoreProtectionGun=True
 
-	bAffectInstigator=True
+	bAffectInstigator=False
 	bAllowDeadInstigator=False
 
 	Radius=2500.000000
