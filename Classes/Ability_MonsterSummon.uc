@@ -135,13 +135,13 @@ defaultproperties
 	StartingCost=10
 	CostAddPerLevel=5
 	MaxLevel=3
-	MonsterTypes(0)=(Level=1,MonsterClass=Class'SkaarjPack.SkaarjPupae',DisplayName="Skaarj Pupae",Cost=10)
-	MonsterTypes(1)=(Level=1,MonsterClass=Class'SkaarjPack.Razorfly',DisplayName="Razorfly",Cost=10)
-	MonsterTypes(2)=(Level=2,MonsterClass=Class'SkaarjPack.Krall',DisplayName="Krall",Cost=25)
-	MonsterTypes(3)=(Level=2,MonsterClass=Class'SkaarjPack.Manta',DisplayName="Manta",Cost=25)
-	MonsterTypes(4)=(Level=3,MonsterClass=Class'SkaarjPack.Brute',DisplayName="Brute",Cost=50)
-	MonsterTypes(5)=(Level=3,MonsterClass=Class'SkaarjPack.Gasbag',DisplayName="Gasbag",Cost=50)
-	MonsterTypes(6)=(Level=3,MonsterClass=Class'SkaarjPack.Warlord',DisplayName="Warlord",Cost=75)
+	MonsterTypes(0)=(Level=1,MonsterClass=Class'SkaarjPack.SkaarjPupae',DisplayName="Skaarj Pupae",Cost=0)
+	MonsterTypes(1)=(Level=1,MonsterClass=Class'SkaarjPack.Razorfly',DisplayName="Razorfly",Cost=0)
+	MonsterTypes(2)=(Level=2,MonsterClass=Class'SkaarjPack.Krall',DisplayName="Krall",Cost=0)
+	MonsterTypes(3)=(Level=2,MonsterClass=Class'SkaarjPack.Manta',DisplayName="Manta",Cost=0)
+	MonsterTypes(4)=(Level=3,MonsterClass=Class'SkaarjPack.Brute',DisplayName="Brute",Cost=0)
+	MonsterTypes(5)=(Level=3,MonsterClass=Class'SkaarjPack.Gasbag',DisplayName="Gasbag",Cost=0)
+	MonsterTypes(6)=(Level=3,MonsterClass=Class'SkaarjPack.Warlord',DisplayName="Warlord",Cost=0)
 	MonsterPreText=", you can summon the"
 	MonsterPostText="."
 	Category=class'AbilityCategory_Monsters'
