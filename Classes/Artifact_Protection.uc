@@ -107,7 +107,7 @@ defaultproperties
 	MinActivationTime=1.000000
 	HudColor=(B=128,G=192,R=224)
 	ArtifactID="Globe"
-	bExclusive=True
+	bExclusive=False
 	Description="Reduces all incoming damage."
 	PickupClass=Class'ArtifactPickup_Protection'
 	IconMaterial=Texture'TitanRPG.ArtifactIcons.Globe'

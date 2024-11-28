@@ -187,8 +187,8 @@ state Activated
 defaultproperties
 {
 	ActivateSound=Sound'TitanRPG.SoundEffects.Rod'
-	bAllowInVehicle=False
-	bMustBeMoving=True
+	bAllowInVehicle=True
+	bMustBeMoving=False
 	TargetRadius=2048.000000
 	DamagePerHit=30
 	ExtraCostPerPlayer=8
@@ -196,7 +196,7 @@ defaultproperties
 	NotWithTransMessage="You cannot use this artifact while using the Translocator."
 	HitEmitterClass=Class'XEffects.LightningBolt'
 	CostPerSec=4
-	bExclusive=True
+	bExclusive=False
 	MinActivationTime=1.000000
 	ArtifactID="Rod"
 	Description="Fires lightnings at nearby enemies."

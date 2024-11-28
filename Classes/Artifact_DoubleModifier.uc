@@ -81,7 +81,7 @@ defaultproperties
 	HudColor=(G=128)
 	ArtifactID="Double"
 	bCanBeTossed=False
-	bExclusive=True
+	bExclusive=False
 	Description="Doubles your weapon's magic level."
 	IconMaterial=Texture'TitanRPG.ArtifactIcons.DoubleMod'
 	ItemName="Double Magic Modifier"
