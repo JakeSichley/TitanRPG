@@ -74,7 +74,7 @@ defaultproperties
 	
 	AbilityName="Super Resupply"
 	Description="Adds max ammo to each ammo type you own every $1 seconds."
-	StartingCost=10
+	StartingCost=999
 	CostAddPerLevel=0
 	MaxLevel=1
 	Category=class'AbilityCategory_Weapons'
