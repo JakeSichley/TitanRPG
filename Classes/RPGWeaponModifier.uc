@@ -324,6 +324,12 @@ simulated event Tick(float dt) {
 function Identify(optional bool bReIdentify) {
 	if(!bIdentified || bReIdentify) {
 		Weapon.ItemName = ConstructItemName(Weapon.class, Modifier);
+
+        if (Instigator != None && PlayerController(Instigator.Controller) != None)
+        {
+            PlayerController(Instigator.Controller).ReceiveLocalizedMessage(Class'LocalMessage_Identify', 0,,, self);
+        }
+
 		bIdentified = true;
 	}
 }
